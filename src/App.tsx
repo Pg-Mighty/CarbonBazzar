@@ -98,10 +98,10 @@ function App() {
             {isAuthenticated ? (
               <>
                 <Link to="/profile" className="flex items-center px-4 py-2 rounded-lg text-gray-700 hover:bg-white/20">
-                  <User className="h-5 w-5" />
-                  <span className="ml-2">{user?.name}</span>
+                  <User className="h-5 w-5" id="bgcolor" />
+                  <span className="ml-2" id="bgcolor">{user?.name}</span>
                 </Link>
-                <button
+                <button id="bgcolor"
                   onClick={handleLogout}
                   className="flex items-center px-4 py-2 rounded-lg text-gray-700 hover:bg-white/20"
                 >
