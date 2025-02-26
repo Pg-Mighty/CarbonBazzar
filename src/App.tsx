@@ -47,7 +47,7 @@ function App() {
       credits: 1000,
       price: 28,
       verified: true,
-      image: 'src/images/mangroves.jpg'
+      image: './src/images/mangroves.jpg'
     },
     {
       id: '2',
@@ -56,7 +56,7 @@ function App() {
       credits: 750,
       price: 25,
       verified: true,
-      image: 'src/images/LR_Ali+Seagrass+Research.jpg'
+      image: './src/images/LR_Ali+Seagrass+Research.jpg'
     },
     {
       id: '3',
@@ -65,7 +65,7 @@ function App() {
       credits: 500,
       price: 22,
       verified: true,
-      image: 'src/images/DSC0034-768x511.jpg'
+      image: './src/images/DSC0034-768x511.jpg'
     },
     {
       id: '4',
@@ -74,7 +74,7 @@ function App() {
       credits: 800,
       price: 24,
       verified: true,
-      image: 'src/images/green-trees-2666806.jpg'
+      image: './src/images/green-trees-2666806.jpg'
     }
   ];
 
@@ -292,7 +292,7 @@ function App() {
       <div className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="src/images/large_ww2122215_748616.jpg"
+            src="./src/images/large_ww2122215_748616.jpg"
             alt="Coastal Community"
             className="w-full h-full object-cover"
           />
