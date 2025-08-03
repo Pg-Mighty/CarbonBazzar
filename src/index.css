@@ -62,6 +62,11 @@
 {
   color: white;
 }
+#colorbg
+{
+  background-color: white;
+  opacity: 50%;
+}
 
 @keyframes fadeInUp {
   from {
