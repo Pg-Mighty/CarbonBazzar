@@ -47,7 +47,7 @@ function App() {
       credits: 1000,
       price: 28,
       verified: true,
-      image: 'https://images.unsplash.com/photo-1624926272725-72f43da8b100?auto=format&fit=crop&w=800'
+      image: 'mangrove-restoration-guidelines.png'
     },
     {
       id: '2',
@@ -56,7 +56,7 @@ function App() {
       credits: 750,
       price: 25,
       verified: true,
-      image: 'https://images.unsplash.com/photo-1589308454676-21c5f55b5e8f?auto=format&fit=crop&w=800'
+      image: 'Sanc0209_-_Flickr_-_NOAA_Photo_Library.jpg'
     },
     {
       id: '3',
@@ -65,7 +65,7 @@ function App() {
       credits: 500,
       price: 22,
       verified: true,
-      image: 'https://images.unsplash.com/photo-1501707305551-9b2adda5e527?auto=format&fit=crop&w=800'
+      image: 'Marsh-shutterstock_1575966571-scaled-e1670426591587-1024x682.jpg'
     },
     {
       id: '4',
@@ -74,7 +74,7 @@ function App() {
       credits: 800,
       price: 24,
       verified: true,
-      image: 'https://images.unsplash.com/photo-1565139441767-96b4e8b94a3a?auto=format&fit=crop&w=800'
+      image: 'Coasts-and-Deltas-Healthy-Wetlands.jpg'
     }
   ];
 
