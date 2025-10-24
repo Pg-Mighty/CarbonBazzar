@@ -47,7 +47,7 @@ function App() {
       credits: 1000,
       price: 28,
       verified: true,
-      image: 'mangrove-restoration-guidelines.png'
+      image: 'images/mangrove-restoration-guidelines.png'
     },
     {
       id: '2',
@@ -56,7 +56,7 @@ function App() {
       credits: 750,
       price: 25,
       verified: true,
-      image: 'Sanc0209_-_Flickr_-_NOAA_Photo_Library.jpg'
+      image: 'images/Sanc0209_-_Flickr_-_NOAA_Photo_Library.jpg'
     },
     {
       id: '3',
@@ -65,7 +65,7 @@ function App() {
       credits: 500,
       price: 22,
       verified: true,
-      image: 'Marsh-shutterstock_1575966571-scaled-e1670426591587-1024x682.jpg'
+      image: 'images/Marsh-shutterstock_1575966571-scaled-e1670426591587-1024x682.jpg'
     },
     {
       id: '4',
@@ -74,7 +74,7 @@ function App() {
       credits: 800,
       price: 24,
       verified: true,
-      image: 'Coasts-and-Deltas-Healthy-Wetlands.jpg'
+      image: 'images/Coasts-and-Deltas-Healthy-Wetlands.jpg'
     }
   ];
 
